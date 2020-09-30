@@ -13,10 +13,10 @@ import java.util.List;
 public class StudentController {
 
     private static final List<Student> STUDENTS= Arrays.asList(
-            new Student(1,"Alexander Nana"),
-            new Student(2,"Sandra Owusu"),
-            new Student(3,"Joshua Pringle"),
-            new Student(4,"T-Rex Danquah")
+            new Student(1,"Alexander "),
+            new Student(2,"Sandra "),
+            new Student(3,"Joshua "),
+            new Student(4,"Rex ")
     );
 
     @GetMapping
